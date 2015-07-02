@@ -49,7 +49,7 @@
        (str     "#b6473d")
        (type    "#7d5454")
        (var     "#5f824b")
-       (warning "#ff6523"))
+       (warning "#ff1276"))
    (custom-theme-set-faces
    'white-sand
         `(default ((,class (:background ,bg1 :foreground ,fg1))))

@@ -41,14 +41,14 @@
        (bg4 "#b3aca6")
        (key2 "#84a4a4")
        (key3 "#688787")
-       (builtin "#a28d45")
+       (builtin "#696042")
        (keyword "#649696")
        (const   "#713bb7")
        (comment "#878787")
-       (func    "#43373f")
+       (func    "#71606c")
        (str     "#b6473d")
        (type    "#7d5454")
-       (var     "#7ac253")
+       (var     "#5f824b")
        (warning "#ff6523"))
    (custom-theme-set-faces
    'white-sand

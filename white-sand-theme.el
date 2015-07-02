@@ -1,3 +1,4 @@
+
 ;;; white-sand-theme.el --- Emacs 24 theme with a light background.
 
 ;; Copyright (C) 2014 , Martin Haesler
@@ -38,16 +39,16 @@
        (bg2 "#ddd5cd")
        (bg3 "#c8c0b9")
        (bg4 "#b3aca6")
-       (key2 "#5b5a36")
-       (key3 "#40401e")
-       (builtin "#28532d")
-       (keyword "#484821")
-       (const   "#603e21")
+       (key2 "#84a4a4")
+       (key3 "#688787")
+       (builtin "#a28d45")
+       (keyword "#759999")
+       (const   "#713bb7")
        (comment "#878787")
-       (func    "#5d385d")
-       (str     "#245252")
-       (type    "#35486b")
-       (var     "#65353a")
+       (func    "#43373f")
+       (str     "#b6473d")
+       (type    "#ad5b99")
+       (var     "#7ac253")
        (warning "#ff6523"))
    (custom-theme-set-faces
    'white-sand

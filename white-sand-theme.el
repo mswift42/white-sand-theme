@@ -43,7 +43,7 @@
        (key3 "#688787")
        (builtin "#696042")
        (keyword "#649696")
-       (const   "#713bb7")
+       (const   "#9177b4")
        (comment "#878787")
        (func    "#71606c")
        (str     "#b6473d")

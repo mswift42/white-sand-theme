@@ -1,4 +1,3 @@
-
 ;;; white-sand-theme.el --- Emacs 24 theme with a light background.
 
 ;; Copyright (C) 2014 , Martin Haesler
@@ -156,20 +155,6 @@
         `(rainbow-delimiters-depth-6-face ((,class :foreground ,fg1)))
         `(rainbow-delimiters-depth-7-face ((,class :foreground ,type)))
         `(rainbow-delimiters-depth-8-face ((,class :foreground ,var)))
-        `(magit-item-highlight ((,class :background ,bg3)))
-        `(magit-section-heading        ((,class (:foreground ,keyword :weight bold))))
-        `(magit-hunk-heading           ((,class (:background ,bg3))))
-        `(magit-section-highlight      ((,class (:background ,bg2))))
-        `(magit-hunk-heading-highlight ((,class (:background ,bg3))))
-        `(magit-diff-context-highlight ((,class (:background ,bg3 :foreground ,fg3))))
-        `(magit-diffstat-added   ((,class (:foreground ,type))))
-        `(magit-diffstat-removed ((,class (:foreground ,var))))
-        `(magit-process-ok ((,class (:foreground ,func :weight bold))))
-        `(magit-process-ng ((,class (:foreground ,warning :weight bold))))
-        `(magit-branch ((,class (:foreground ,const :weight bold))))
-        `(magit-log-author ((,class (:foreground ,fg3))))
-        `(magit-hash ((,class (:foreground ,fg2))))
-        `(magit-diff-file-header ((,class (:foreground ,fg2 :background ,bg3))))
         `(lazy-highlight ((,class (:foreground ,fg2 :background ,bg3))))
         `(term ((,class (:foreground ,fg1 :background ,bg1))))
         `(term-color-black ((,class (:foreground ,bg3 :background ,bg3))))

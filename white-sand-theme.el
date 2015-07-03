@@ -41,7 +41,7 @@
        (key2 "#75a1a1")
        (key3 "#598484")
        (builtin "#696042")
-       (keyword "#649696")
+       (keyword "#4a858c")
        (const   "#646496")
        (comment "#878787")
        (func    "#71606c")

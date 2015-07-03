@@ -106,6 +106,14 @@
 	`(org-ellipsis ((,class (:foreground ,builtin))))
 	`(org-verbatim ((,class (:foreground ,fg4))))
         `(org-document-info-keyword ((,class (:foreground ,func))))
+
+        ;; magit-mode:
+
+        `(magit-reflog-cherry-pick ((,class (:foreground ,const))))
+        `(magit-reflog-commit ((,class (:foreground ,const))))
+        `(magit-reflog-merge ((,class (:foreground ,const))))
+        `(magit-reflog-other ((,class (:foreground ,key3))))
+        `(magit-reflog-remote ((,class (:foreground ,var))))
 	`(font-latex-bold-face ((,class (:foreground ,type))))
 	`(font-latex-italic-face ((,class (:foreground ,key3 :italic t))))
 	`(font-latex-string-face ((,class (:foreground ,str))))

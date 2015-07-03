@@ -202,6 +202,7 @@
         `(helm-moccur-buffer ((,class (:foreground ,func :background ,bg1))))
         `(helm-source-go-package-godoc-description ((,class (:foreground ,str))))
         `(helm-bookmark-w3m ((,class (:foreground ,type))))
+        `(helm-locate-finish ((,class (:foreground ,var))))
         `(company-echo-common ((,class (:foreground ,bg1 :background ,fg1))))
         `(company-preview ((,class (:background ,bg1 :foreground ,key2))))
         `(company-preview-common ((,class (:foreground ,bg2 :foreground ,fg3))))

@@ -114,6 +114,8 @@
         `(magit-reflog-merge ((,class (:foreground ,const))))
         `(magit-reflog-other ((,class (:foreground ,key3))))
         `(magit-reflog-remote ((,class (:foreground ,var))))
+        `(magit-cherry-unmatched ((,class (:foreground "#ca881d"))))
+        `(magit-cherry-equivalent ((,class (:foreground ,keyword))))
 	`(font-latex-bold-face ((,class (:foreground ,type))))
 	`(font-latex-italic-face ((,class (:foreground ,key3 :italic t))))
 	`(font-latex-string-face ((,class (:foreground ,str))))

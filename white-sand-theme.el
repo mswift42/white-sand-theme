@@ -30,7 +30,7 @@
 
  (deftheme white-sand)
  (let ((class '((class color) (min-colors 89)))
-       (fg1 "#363636")
+       (fg1 "#303030")
        (fg2 "#444444")
        (fg3 "#525252")
        (fg4 "#616161")

@@ -45,7 +45,7 @@
        (const   "#646496")
        (comment "#878787")
        (func    "#71606c")
-       (str     "#c2544a")
+       (str     "#b3534b")
        (type    "#7d5454")
        (var     "#5f824b")
        (warning "#ff1276"))

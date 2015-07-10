@@ -40,7 +40,7 @@
        (bg4 "#b4ada6")
        (key2 "#5f9298")
        (key3 "#43757c")
-       (builtin "#696042")
+       (builtin "#966987")
        (keyword "#4a858c")
        (const   "#646496")
        (comment "#878787")

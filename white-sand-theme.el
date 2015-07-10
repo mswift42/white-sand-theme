@@ -47,7 +47,7 @@
        (func    "#71606c")
        (str     "#b3534b")
        (type    "#7d5454")
-       (var     "#5f824b")
+       (var     "#476238")
        (warning "#ff1276"))
    (custom-theme-set-faces
    'white-sand

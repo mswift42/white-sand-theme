@@ -44,7 +44,7 @@
        (keyword "#4a858c")
        (const   "#646496")
        (comment "#a9a9a9")
-       (func    "#71606c")
+       (func    "#71a19f")
        (str     "#b3534b")
        (type    "#b53875")
        (var     "#476238")

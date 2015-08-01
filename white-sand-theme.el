@@ -42,7 +42,7 @@
        (key3 "#43757c")
        (builtin "#1a8591")
        (keyword "#4a858c")
-       (const   "#646496")
+       (const   "#697024")
        (comment "#a9a9a9")
        (func    "#bd745e")
        (str     "#b3534b")

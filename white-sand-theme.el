@@ -46,7 +46,7 @@
        (comment "#a9a9a9")
        (func    "#bd745e")
        (str     "#b3534b")
-       (type    "#b53875")
+       (type    "#8c4a79")
        (var     "#476238")
        (warning "#ff1276"))
    (custom-theme-set-faces

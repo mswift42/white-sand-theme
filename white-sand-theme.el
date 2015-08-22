@@ -1,4 +1,4 @@
-;;; white-sand-theme.el --- Emacs 24 theme with a light background.
+;;; white-sand-theme.el --- Emacs theme with a light background.
 
 ;; Copyright (C) 2014 , Martin Haesler
 

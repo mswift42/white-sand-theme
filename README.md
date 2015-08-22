@@ -15,6 +15,10 @@ Javascript and Org-mode sample:
 
 ![Screenshot](https://github.com/mswift42/white-sand-theme/raw/master/white-sand-jsandorg.png)
 
+Go and Java sample:
+
+![Screenshot](https://github.com/mswift42/white-sand-theme/raw/master/white-sand-goandjava.png)
+
 
 The font used in the screenshots is [Ubuntu Mono](http://font.ubuntu.com/).
 

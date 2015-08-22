@@ -20,6 +20,8 @@ The font used in the screenshots is [Ubuntu Mono](http://font.ubuntu.com/).
 
 Weather data can be displayed in an agenda buffer using [weather-metno.el](https://github.com/ruediger/weather-metno-el).
 
+* * * 
+
 Available on Melpa.
 
 Installation Instructions

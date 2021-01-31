@@ -236,7 +236,12 @@
         `(jde-java-font-lock-private-face ((t (:foreground ,keyword))))
         `(jde-java-font-lock-constant-face ((t (:foreground ,const))))
         `(jde-java-font-lock-modifier-face ((t (:foreground ,key3))))
-        `(jde-java-font-lock-number-face ((t (:foreground ,var))))))
+        `(jde-java-font-lock-number-face ((t (:foreground ,var))))
+        ;; emacs 27
+        ;; line number
+        `(line-number ((t (:background ,bg2 :foreground ,fg4))))
+        `(line-number-current-line ((t (:background ,bg2 :foreground ,fg1))))
+        ))
 
 ;;;###autoload
 (when load-file-name
